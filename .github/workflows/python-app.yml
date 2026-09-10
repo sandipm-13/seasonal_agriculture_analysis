@@ -28,7 +28,7 @@ jobs:
           pip install matplotlib pandas seaborn scipy  # ← added seaborn & scipy
 
       - name: Run plot script
-        run: python main.py  # ← your actual filename
+        run: python sapa.py  # ← your actual filename
 
       - name: Commit and Push Plots
         run: |
