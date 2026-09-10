@@ -102,14 +102,14 @@ seasonal-agriculture-analysis/
 ### Option 1: Google Colab (No installation needed)
 1. Go to [colab.research.google.com](https://colab.research.google.com)
 2. Click **File → Upload notebook**
-3. Upload `seasonal_agriculture_analysis.ipynb`
+3. Upload `SAPA(2).ipynb`
 4. Upload `seasonal_agriculture_performance_dataset.csv` to the Colab files panel
 5. Click **Runtime → Run all**
 
 ### Option 2: Local Setup
 ```bash
 # Clone the repository
-git clone https://github.com/sandipm-13/seasonal-agriculture-analysis.git
+git clone https://github.com/sandipm-13/seasonal_agriculture_analysis.git
 cd seasonal-agriculture-analysis
 
 # Install required libraries
@@ -142,5 +142,5 @@ jupyter notebook seasonal_agriculture_analysis.ipynb
 
 ## 📜 Certificate
 
-Arghya Khamaru has completed the **Data Visualization** course under VOIS × Edunet Foundation  
-**Certificate ID:** VFLMS26_162540 | **Issued:** September 8, 2026
+Sandip Mahato has completed the **Data Visualization** course under VOIS × Edunet Foundation  
+**Certificate ID:** VFLMS26_164569 | **Issued:** September 10, 2026
