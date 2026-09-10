@@ -4,9 +4,9 @@
 
 | Field | Details |
 |-------|---------|
-| **Student** | Arghya Khamaru |
+| **Student** | Sandip Mahato |
 | **Program** | VOIS AICTE Batch1 2026–2027 |
-| **AICTE STU ID** | *[Fill from your offer letter]* |
+| **AICTE STU ID** | STU69cacc29e97901774898217|
 | **Course Completed** | Data Visualization — ID: VFLMS26_162540 |
 
 ---
@@ -109,7 +109,7 @@ seasonal-agriculture-analysis/
 ### Option 2: Local Setup
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/seasonal-agriculture-analysis.git
+git clone https://github.com/sandipm-13/seasonal-agriculture-analysis.git
 cd seasonal-agriculture-analysis
 
 # Install required libraries
